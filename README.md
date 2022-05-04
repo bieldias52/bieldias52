@@ -9,11 +9,14 @@
 
 - Fell free to ask me anything you want, codes, physics, quantum mechanics and whatever you want.
 
-My contats are:{
+Personal contact:{
                   email: biel.lange@gmail.com;
                  phone: +55 (61) 99947-2625 
                  }
                  
+Professional contact: {
+                        email: gabriel.lange@ibm.com
+                        }
 
 He/his/him
 
