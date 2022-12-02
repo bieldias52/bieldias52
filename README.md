@@ -1,21 +1,18 @@
 ### Hi there 👋 
 - Hello every one, my name is Gariel Lange and I`m a undergraduate student in physics. 
 
-- I am changing my area to IT due to some personal reasons, but to be honest I realy like this area hahaha
-
-- I`m currently working/learning in react-native develop using js. 
+- I`m currently working/learning with Angular. 
 
 - I also have interest in learning about AI, quantum computation and much more. 
 
-- Fell free to ask me anything you want, codes, physics, quantum mechanics and whatever you want.
+- Feel free to ask me anything you want, codes, physics, quantum mechanics and whatever you want.
 
 Personal contact:{
                   email: biel.lange@gmail.com;
-                 phone: +55 (61) 99947-2625 
                  }
                  
 Professional contact: {
-                        email: gabriel.lange@ibm.com
+                        email: gabriel.lange1@ibm.com
                         }
 
 He/his/him
