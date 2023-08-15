@@ -1,7 +1,7 @@
 ### Hi there 👋 
-- Hello every one, my name is Gariel Lange and I`m a undergraduate student in physics. 
+- Hello every one, my name is Gariel Lange and I`m a bachelor in physics. 
 
-- I`m currently working/learning with Angular. 
+- I`m currently working with Angular. 
 
 - I also have interest in learning about AI, quantum computation and much more. 
 
@@ -18,7 +18,7 @@ Professional contact: {
 He/his/him
 
 Extra fact:
-- I`m also a resercher in Atomic and Molecular Physics and Solid State Physics, so we can talk about it too haha
+- I`m also a resercher in Atomic and Molecular Physics and Solid State Physics, so we can talk about it too lol
 
 <!--
 **bieldias52/bieldias52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
